@@ -412,7 +412,7 @@ a:hover {
   font-weight: bold;
 }
 
-.special-sunday {
+.refreshments-note {
   margin: 2rem 0 0;
   padding: 1rem 1.25rem;
   border-left: 4px solid var(--gold);
@@ -1138,7 +1138,7 @@ blockquote {
   flex-direction: row-reverse;
 }
 
-.rtl-page .special-sunday {
+.rtl-page .refreshments-note {
   border-right: 4px solid var(--gold);
   border-left: 0;
 }
